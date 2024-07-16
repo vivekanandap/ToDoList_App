@@ -1,6 +1,6 @@
 A To Do List App built using XML to design user interface and Java to handle Task Management.
 
-Output ScreenShots
+Output Screenshots
 ![Screenshot (204)](https://github.com/user-attachments/assets/73227af4-840d-4a25-ab28-8825f17fbe47)
 ![Screenshot (206)](https://github.com/user-attachments/assets/796ad419-a02d-4fea-a00d-a22ec7d83337)
 ![Screenshot (207)](https://github.com/user-attachments/assets/249d8efc-02c2-446c-8a58-56aa84b1f252)
